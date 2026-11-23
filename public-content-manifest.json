@@ -7,7 +7,7 @@
     "visibility": "public-only"
   },
   "content": {
-    "sha256": "4e98cd317594b5faba4cb55db37e0e9dabe7eb0532166565568536084e98ea5a",
+    "sha256": "fdd75609f1a126150899f92ae1b4233b698c7048c7eb27f09d3a44494b087e60",
     "files": [
       {
         "path": "analysis/architecture.mdx",
@@ -351,8 +351,8 @@
       },
       {
         "path": "concepts/entry-points.mdx",
-        "bytes": 11326,
-        "sha256": "1653a0c3714edd64cfc782d0b1d4f12ef5f50bc310dc97797784309d1f2b2bd9"
+        "bytes": 11641,
+        "sha256": "1ec44c43aa596d65e5304f6f21cc9426885648d5a238d9a8e2dbad4a7eabeba9"
       },
       {
         "path": "concepts/evidence.mdx",
@@ -1326,8 +1326,8 @@
       },
       {
         "path": "rules/unused-export.mdx",
-        "bytes": 3454,
-        "sha256": "9fd85232132e06656f8cfd4b441a78f3bfd505e87c396fe9d2fa13e408c7fc69"
+        "bytes": 4299,
+        "sha256": "1b4c43c110f2f412a4e8e2884f7da68c832d6d819aa4c464ca4fa24a9a2b42d3"
       },
       {
         "path": "rules/unused-file.mdx",
