@@ -7,7 +7,7 @@
     "visibility": "public-only"
   },
   "content": {
-    "sha256": "d1939d8097acab463510cabfa21fc36faf7a7ea25d9bd0fec96239d9b547f79a",
+    "sha256": "b81964ca105abee193fc887a2002e0af03602e4dce4d990e1f8ded27bc81f85e",
     "files": [
       {
         "path": "analysis/architecture.mdx",
@@ -401,8 +401,8 @@
       },
       {
         "path": "configuration/suppression.mdx",
-        "bytes": 13421,
-        "sha256": "b1533eab1849c93b9fb6cbf94bbe6b0fa11aeeb1f5b517e7c3a3ed07e199e6b5"
+        "bytes": 14252,
+        "sha256": "f51706ad22371c1adf86d7bfff224cc60cf6bb4ae1369902f025112439ba1232"
       },
       {
         "path": "configuration/workspaces.mdx",
@@ -1321,8 +1321,8 @@
       },
       {
         "path": "rules/unused-export.mdx",
-        "bytes": 3454,
-        "sha256": "9fd85232132e06656f8cfd4b441a78f3bfd505e87c396fe9d2fa13e408c7fc69"
+        "bytes": 3567,
+        "sha256": "914d48e499837af2bce9c4071fe52f268740901e829f0078970ff09f767d453b"
       },
       {
         "path": "rules/unused-file.mdx",
